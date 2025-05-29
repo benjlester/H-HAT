@@ -1,0 +1,126 @@
+STEP translation to Solid Edge
+Date: Saturday,May 24,2025 11:23PM
+Source File: C:\Users\Ben\Projects\Circuits\DAQHat Rev A\DAQHat Rev A.step
+Author: Pcbnew
+Organization: Kicad
+Source System: KiCad to STEP converter
+
+Hardware:
+Processor: AMD Ryzen 7 5800X3D 8-Core Processor           
+Operating System: Windows 10 Professional Version:22H2 Build:19045 System Type:64-bit
+Installed Memory: 31.94 GB
+
+Software Information
+Parasolid Version: 36.0.142
+PSBodyShop Version: 36.0.108
+Step Adapter Version: 13.0.163
+Solid Edge Version: 224.00.00.101 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Optimize:Off
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\Ben\Projects\Circuits\DAQHat Rev A
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\DAQHat Rev A.asm
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\PinHeader_2x04_P2.54mm_Horizontal.par
+|--+Begin Assembly: 2
+|--+Created SE Assembly File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\1862107_3.asm
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_9.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_10.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_11.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_12.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_13.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_14.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_15.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_16.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_17.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_18.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_19.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_20.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_21.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_22.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_23.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_24.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_25.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_26.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_27.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_28.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_29.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_30.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_31.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_32.par
+|  |--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\SOLID_33.par
+|--+Total Parts: 50
+|--+Assemblies: 0
+|--+Solid Bodies: 50
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\1862107.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\1862107.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\ADE0804.par
+|--+Begin Assembly: 2
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\1862107.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\step-up-voltage-regulator-u3v16fx.par
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\PinSocket_2x20_P2.54mm_Vertical.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Reusing File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\R_0805_2012Metric.par
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\DAQHat Rev A_copper.par
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\DAQHat Rev A_silkscreen.par
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\DAQHat Rev A_soldermask.par
+|--+Created SE Part File C:\Users\Ben\Projects\Circuits\DAQHat Rev A\DAQHat Rev A_PCB.par
++Total Parts: 624
++Assemblies: 1
++Solid Bodies: 237
++Sheet Bodies: 386
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 35

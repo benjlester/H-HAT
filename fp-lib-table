@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "1862107")(type "KiCad")(uri "${KIPRJMOD}/Libraries/1862107")(options "")(descr ""))
+  (lib (name "P70_2100045R")(type "KiCad")(uri "${KIPRJMOD}/Libraries/P70_2100045R")(options "")(descr ""))
+  (lib (name "ADE0804")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ADE0804")(options "")(descr ""))
+)
